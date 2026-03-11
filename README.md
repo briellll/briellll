@@ -3,7 +3,7 @@
 🌐 About me:
 
 - 🔭 Hoje trabalho como analista de rede Jr
-- 🌱 Estudando Python
+- 🌱 Estudando JavaScript
 - 📫 contate-me em : carloscgmorais@gmail.com.br
 ##
  <h3 align="center"> 🖥  Technologies and tools: </h3>
