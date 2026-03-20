@@ -5,7 +5,7 @@
 - 🔭 Hoje trabalho como analista de rede Jr
 - 🌱 Estudando JavaScript
 - 📫 contate-me em : carloscgmorais@gmail.com.br
-- meu portfolio : <a href=https://briellll.github.io/portfolio/>
+- meu portfolio : https://briellll.github.io/portfolio/
 ##
  <h3 align="center"> 🖥  Technologies and tools: </h3>
 <div align="center" style="display: inline_block">
