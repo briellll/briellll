@@ -27,15 +27,7 @@ Linux e hardening · análise de tráfego de rede · segurança de identidade e 
 
 - **Sistemas de Informação** — UFOPA, cursando
 - **Técnico em Informática** — IFPA
-- **Cyber Academy 2026** — Laboratório de Segurança Cibernética da FEBRABAN, com a GoHacking
 
-### Projeto de conclusão
-
-Assistente que responde perguntas em linguagem natural sobre a base do GLPI:
-classifica a intenção, gera a query SQL, executa e responde em português.
-Arquitetura multi-agente em LangGraph, com busca vetorial sobre a base de
-conhecimento em ChromaDB e um nó de validação de escopo que barra perguntas
-fora do domínio de helpdesk.
 
 ### Onde me achar
 
